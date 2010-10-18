@@ -1,0 +1,9 @@
+Build.PL
+COPYING
+DISCLAIMER
+lib/CHI/Driver/TokyoTyrant.pm
+lib/CHI/t/Driver/TokyoTyrant.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+t/Driver-TokyoTyrant.t
